@@ -33,7 +33,7 @@ A modern, fully customizable portfolio website built with React, TypeScript, and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pranav-m-r/portfolio-template.git
+   https://github.com/pranav-m-r/Portfolio-Template.git
    cd portfolio-template
    ```
 
@@ -561,3 +561,4 @@ If you have questions or need help customizing your portfolio, feel free to reac
 ---
 
 **Made with ❤️ for developers and researchers**
+
