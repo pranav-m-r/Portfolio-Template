@@ -1,4 +1,3 @@
-import React from 'react';
 import { ThemeProvider } from './contexts/ThemeContext';
 import ThemeToggle from './components/ThemeToggle';
 import Footer from './components/Footer';

@@ -18,9 +18,8 @@ export interface Education {
   location: string;
   degree: string;
   minor?: string;
-  gpa: string;
-  metric?: string;
-  score?: string;
+  metric: string;
+  score: string;
   period: string;
   logo: string;
   link?: string;
