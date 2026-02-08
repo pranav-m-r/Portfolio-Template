@@ -1,0 +1,43 @@
+[
+  {
+    "id": "teaching-assistant",
+    "role": "Undergraduate Teaching Assistant",
+    "organization": "Department of CSIS, BITS Pilani Goa Campus",
+    "period": "---- – Present",
+    "location": "Goa, India",
+    "image": "/images/bits.png",
+    "link": "https://www.bits-pilani.ac.in/goa/computer-science-information-systems/",
+    "courses": [
+      {
+        "name": "Course Name (Course Code)",
+        "instructor": "Prof. Instructor Name",
+        "semester": "Semester Year"
+      },
+      {
+        "name": "Course Name (Course Code)",
+        "instructor": "Prof. Instructor Name",
+        "semester": "Semester Year"
+      },
+      {
+        "name": "Course Name (Course Code)",
+        "instructor": "Prof. Instructor Name",
+        "semester": "Semester Year"
+      }
+    ]
+  },
+  {
+    "id": "course-instructor",
+    "role": "Course Instructor",
+    "organization": "Center for Technical Education, BITS Pilani Goa Campus",
+    "period": "----",
+    "location": "Goa, India",
+    "image": "/images/cte.jpg",
+    "link": "https://www.bits-pilani.ac.in/goa/center-for-technical-education/",
+    "courses": [
+      {
+        "name": "Course Title and Description",
+        "semester": "Semester Year"
+      }
+    ]
+  }
+]

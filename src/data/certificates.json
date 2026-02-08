@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cert-1",
+    "title": "Machine Learning Specialization",
+    "organization": "Coursera",
+    "year": "----",
+    "description": "Brief description of certification content.",
+    "link": "#"
+  },
+  {
+    "id": "cert-2",
+    "title": "Azure AI Fundamentals",
+    "organization": "Microsoft",
+    "year": "----",
+    "description": "Brief description of certification content.",
+    "link": "#"
+  }
+]

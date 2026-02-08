@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bits-pilani",
+    "institution": "Birla Institute of Technology and Science, Pilani",
+    "location": "Goa, India",
+    "degree": "Bachelor of Engineering (Hons.) in Computer Science",
+    "minor": "----",
+    "metric": "GPA",
+    "score": "----",
+    "period": "---- – Present",
+    "logo": "/images/bits.png",
+    "link": "https://www.bits-pilani.ac.in/goa/"
+  },
+  {
+    "id": "iit-madras",
+    "institution": "Indian Institute of Technology Madras",
+    "location": "Remote | Chennai, India",
+    "degree": "Bachelor of Science in Data Science and Applications",
+    "minor": "----",
+    "metric": "GPA",
+    "score": "----",
+    "period": "---- – Present",
+    "logo": "/images/iitm.png",
+    "link": "https://www.iitm.ac.in/"
+  },
+  {
+    "id": "high-school",
+    "institution": "Primus Public School",
+    "location": "Bengaluru, India",
+    "degree": "Pre-University Certificate Examination (Grade XII)",
+    "metric": "Score",
+    "score": "----",
+    "period": "---- – ----",
+    "logo": "/images/primus.png",
+    "link": "https://primusschool.edu.in/"
+  }
+]

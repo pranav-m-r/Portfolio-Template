@@ -1,0 +1,26 @@
+[
+  {
+    "id": "award-1",
+    "title": "Merit Scholarship",
+    "organization": "BITS Pilani",
+    "year": "---- – ----",
+    "description": "Brief description of the scholarship or award and why you received it.",
+    "link": "https://universe.bits-pilani.ac.in/uploads/Goa/admissions/sections/SCHOLARSHIPS.pdf"
+  },
+  {
+    "id": "award-2",
+    "title": "Certificate of Academic Distinction",
+    "organization": "IIT Madras",
+    "year": "----",
+    "description": "Description of the academic achievement or distinction.",
+    "link": "https://study.iitm.ac.in/student-achievements/toppers/2025/Foundation%20and%20Diploma/Certificate%20of%20Academic%20Distinction"
+  },
+  {
+    "id": "award-4",
+    "title": "Outstanding Student of the Year",
+    "organization": "Primus Public School",
+    "year": "----",
+    "description": "Description of the award and achievement.",
+    "link": "https://primusschool.edu.in/wp-content/uploads/2024/04/RHAPSODY-2023-24-VOL-13_compressed_compressed.pdf#page=19"
+  }
+]

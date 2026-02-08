@@ -1,0 +1,48 @@
+[
+  {
+    "id": "mit-media-lab",
+    "organization": "MIT Media Lab, Massachusetts Institute of Technology",
+    "role": "Research Intern",
+    "period": "---- – Present",
+    "location": "Remote | MA, USA",
+    "type": "research",
+    "highlights": [
+      "Description of your work and research focus.",
+      "Key achievement or project you worked on.",
+      "Another significant contribution or result."
+    ],
+    "image": "/images/medialab.png",
+    "link": "https://www.media.mit.edu/"
+  },
+  {
+    "id": "dash-lab",
+    "organization": "DaSH Lab, BITS Pilani Goa Campus",
+    "role": "Undergraduate Research Assistant",
+    "period": "---- – Present",
+    "location": "Goa, India",
+    "type": "research",
+    "highlights": [
+      "Description of your research area and advisor.",
+      "Major project or framework you developed.",
+      "Additional contributions or responsibilities.",
+      "Service activities like reviewing or presenting."
+    ],
+    "image": "/images/dashlab.jpg",
+    "link": "https://www.dashlab.in/"
+  },
+  {
+    "id": "amazon",
+    "organization": "Amazon",
+    "role": "Software Engineering Intern",
+    "period": "---- – ----",
+    "location": "Remote | Bengaluru, India",
+    "type": "industry",
+    "highlights": [
+      "Brief description of your role and main responsibilities.",
+      "Key technical analysis or research you conducted.",
+      "Solutions or strategies you developed."
+    ],
+    "image": "/images/amazon.png",
+    "link": "https://www.amazon.in"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "paper-1",
+    "title": "Your First Paper Title",
+    "authors": "Your Name*, Co-Author Name*, Another Author, Last Author",
+    "venue": "Conference/Journal Name or 'Under Review'",
+    "year": 2026,
+    "status": "Published/Preprint",
+    "links": {
+      "paper": "https://link-to-paper.com",
+      "code": "https://github.com/username/repo"
+    }
+  },
+  {
+    "id": "paper-2",
+    "title": "Your Second Paper Title",
+    "authors": "First Author*, Your Name*, Third Author, Fourth Author",
+    "venue": "Conference/Journal Name or 'Under Review'",
+    "year": 2026,
+    "status": "Published/Preprint",
+    "links": {
+      "paper": "#",
+      "code": "https://github.com/username/repo",
+      "info": "#"
+    },
+    "award": "Optional award note"
+  }
+]
